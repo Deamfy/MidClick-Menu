@@ -41,4 +41,5 @@
 *   **Вариант А (для продвинутых):** Если у вас установлен Git, откройте терминал и выполните:
     ```bash
     git clone https://github.com/ваш-ник/название-репозитория.git
-    cd название-репозитория
+    cd MidClick-Menu
+    python mid_click_menu.py
